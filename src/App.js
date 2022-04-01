@@ -1,11 +1,13 @@
 import './App.css';
+import Header from './components/Header';
+
+
 // day 1
 function App() {
   return (
     <div className="App">
-
-      <h1>hey there I'm horseman.....</h1>
       {/* Header */}
+      <Header />
       {/* Tinder card */}
       {/* Footer */}
     </div>
